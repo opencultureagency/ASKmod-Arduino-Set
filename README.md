@@ -2,6 +2,7 @@
 
 #ASKmod is a part of the #ASKotec project: [Official Website](https://askotec.openculture.agency)
 
+The #ASKmod Arduino Set can be used to perform simple and more complex control of devices. There are a variety of sensors and electronic extensions that open up a wide range of possibilities.
 
 ![#ASKmod Arduino Set](/images/ASKmod-Arduino-Set.jpg)
 
@@ -18,7 +19,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Arduino-Set/tree/v.1.0.0): [content file](CONTENT.md)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Arduino-Set/tree/v.1.0.0): Arduino Starter Set with some extra extensions. See the full list in the [content file](CONTENT.md)
 
 ## Contributers
 
