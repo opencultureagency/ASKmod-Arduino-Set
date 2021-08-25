@@ -10,14 +10,14 @@
 
 ## Items
 
-- [Arduino Starter Set V3](https://askotec.openculture.agency/product/arduino-starter-set-v3/)
-- [Bread Board 400](https://askotec.openculture.agency/product/bread-board/)
-- [Twin Wire for Arduino Set](https://askotec.openculture.agency/product/twin-wires/)
-- [Radio Module](https://askotec.openculture.agency/product/radio-set/)
-- [Headphones](https://askotec.openculture.agency/product/headphones/)
-- [Jumper Wire F/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-f-m-pack-of-40/)
-- [Jumper Wire M/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-m-m-pack-of-40/)
-- [Circuit Board for Arduino Set](https://askotec.openculture.agency/product/circuit-board/)
+- 1x [Arduino Starter Set V3](https://askotec.openculture.agency/product/arduino-starter-set-v3/)
+- 1x [Bread Board 400](https://askotec.openculture.agency/product/bread-board/)
+- 1x [Twin Wire for Arduino Set](https://askotec.openculture.agency/product/twin-wires/)
+- 1x [Radio Module](https://askotec.openculture.agency/product/radio-set/)
+- 1x [Headphones](https://askotec.openculture.agency/product/headphones/)
+- 1x [Jumper Wire F/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-f-m-pack-of-40/)
+- 1x [Jumper Wire M/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-m-m-pack-of-40/)
+- 1x [Circuit Board for Arduino Set](https://askotec.openculture.agency/product/circuit-board/)
 
 ## Reference
 
