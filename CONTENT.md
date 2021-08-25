@@ -6,7 +6,7 @@
 
 ## Arduino Set
 
-![#ASKmod Arduino Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Arduino-Set/main/images/ASKmod-Arduino-Set.jpg)
+![#ASKmod Arduino Set](https://github.com/opencultureagency/ASKmod-Arduino-Set/blob/549e148123600d86adc40fc51975a230903b47e9/images/ASKmod-Arduino-Set.jpg)
 
 ## Items
 
