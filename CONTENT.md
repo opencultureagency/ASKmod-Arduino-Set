@@ -1,6 +1,6 @@
 # #ASKmod Content
 
-| Version: | 1.0.0        |
+| Version: | 1.0.1        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
@@ -17,7 +17,7 @@
 - 1x [Headphones](https://askotec.openculture.agency/product/headphones/)
 - 1x [Jumper Wire F/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-f-m-pack-of-40/)
 - 1x [Jumper Wire M/M (PACK OF 40)](https://askotec.openculture.agency/product/jumper-wire-m-m-pack-of-40/)
-- 1x [Circuit Board for Arduino Set](https://askotec.openculture.agency/product/circuit-board/)
+- 5x [Circuit Boards](https://askotec.openculture.agency/product/circuit-board/)
 
 ## Reference
 
