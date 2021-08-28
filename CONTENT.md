@@ -1,12 +1,12 @@
 # #ASKmod Content
 
-| Version: | 1.0.1        |
+| Version: | 1.0.2        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
 ## Arduino Set
 
-![#ASKmod Arduino Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Arduino-Set/549e148123600d86adc40fc51975a230903b47e9/images/ASKmod-Arduino-Set.jpg)
+![#ASKmod Arduino Set](images/ASKmod-Arduino-Set.jpg)
 
 ## Items
 
